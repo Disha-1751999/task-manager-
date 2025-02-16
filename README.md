@@ -46,7 +46,7 @@ The application is divided into two main components:
   - [VSCode](https://code.visualstudio.com/)
 
 
-#State Management
+# State Management
 
 How Zustand is Used for API Integration and Managing Global State
 
