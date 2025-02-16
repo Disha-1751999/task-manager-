@@ -179,58 +179,25 @@ Backend: [Deployed Backend](https://task-management-app-server-henna.vercel.app/
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # DEMO
+
+## Register Page
+![Register](https://github.com/Disha-1751999/task-manager-/blob/main/client/public/asset/register.PNG)
 ## Login Page
-![Screenshot (55)](https://github.com/John12356/Task-Manager--First-MERN/assets/91779049/e6c16d98-9342-4d37-b17c-7035fcbd77dd)
+![Login](https://github.com/Disha-1751999/task-manager-/blob/main/client/public/asset/login.PNG)
 ## Home Page
-![Screenshot (65)](https://github.com/John12356/Task-Manager--First-MERN/assets/91779049/d9e4fc89-d1ad-4604-b610-6842e5e71b48)
-## To-Do Page
-![Screenshot (61)](https://github.com/John12356/Task-Manager--First-MERN/assets/91779049/45f2bb36-08db-4e4e-9c6d-ea84845469b1)
-## Task Page
-![Screenshot (62)](https://github.com/John12356/Task-Manager--First-MERN/assets/91779049/0ac74f42-3851-4102-a2f9-ee609ded1eba)
-## Notes Page
-![Screenshot (63)](https://github.com/John12356/Task-Manager--First-MERN/assets/91779049/a5726406-2b8b-445b-8ee9-01bd1e64d79c)
-## Dark - Mode
-![Screenshot (64)](https://github.com/John12356/Task-Manager--First-MERN/assets/91779049/30f8cd99-c136-4721-b552-6a146827ed88)
+![Home](https://github.com/Disha-1751999/task-manager-/blob/main/client/public/asset/home.PNG)
+## Task Create Page
+![Task Create](https://github.com/Disha-1751999/task-manager-/blob/main/client/public/asset/create.PNG)
+## Update Task Page
+![Update Task ](https://github.com/Disha-1751999/task-manager-/blob/main/client/public/asset/mark%20as%20complete%202.PNG)
+![Update Task ](https://github.com/Disha-1751999/task-manager-/blob/main/client/public/asset/mark%20as%20complete.PNG)
+## Profile Page
+![Profile)](https://github.com/Disha-1751999/task-manager-/blob/main/client/public/asset/profile.PNG)
+## Forget Password
+![Forget Password 1](https://github.com/Disha-1751999/task-manager-/blob/main/client/public/asset/set%20email.PNG)
+![Forget Password 2](https://github.com/Disha-1751999/task-manager-/blob/main/client/public/asset/otp.PNG)
+![Forget Password 3](https://github.com/Disha-1751999/task-manager-/blob/main/client/public/asset/new%20password.PNG)
 
 
     

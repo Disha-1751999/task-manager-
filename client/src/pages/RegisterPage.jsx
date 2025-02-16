@@ -62,7 +62,7 @@ function RegisterPage() {
                   type="email"
                   name="email"
                   className=" border bg-gray-900 border-gray-400 text-white text-sm rounded-lg focus:border-teal-200 focus:border-2 focus:outline-none focus:ring-0 block w-full p-2.5 "
-                  placeholder="name@flowbite.com"
+                  placeholder="name@gmail.com"
                   required
                   onChange={(e) => {
                     setEmail(e.target.value);
