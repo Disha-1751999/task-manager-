@@ -6,23 +6,23 @@
 # Project Overview
 The application is divided into two main components:
 
-Frontend: Developed using React.js, the frontend is responsible for the user interface and experience. It uses Zustand for state management to ensure efficient handling of API integration and global state.
+- Frontend: Developed using React.js, the frontend is responsible for the user interface and experience. It uses Zustand for state management to ensure efficient handling of API integration and global state.
 
-Backend: Powered by Express.js and Node.js, the backend handles the application's logic, API endpoints, and database operations. MongoDB serves as the database, providing a flexible schema for storing user and task data.
+- Backend: Powered by Express.js and Node.js, the backend handles the application's logic, API endpoints, and database operations. MongoDB serves as the database, providing a flexible schema for storing user and task data.
 
 
 
 # Key Features
 
-User Authentication: Secure registration, login, and password management using JWT and bcrypt.
+- User Authentication: Secure registration, login, and password management using JWT and bcrypt.
 
-Task Management: Allows users to create, update, delete, and retrieve tasks.
+- Task Management: Allows users to create, update, delete, and retrieve tasks.
 
-Global State Management: Zustand ensures efficient management of the application state.
+- Global State Management: Zustand ensures efficient management of the application state.
 
-Secure API Operations: Includes token validation, password hashing, and CORS configuration.
+- Secure API Operations: Includes token validation, password hashing, and CORS configuration.
 
-Deployment Ready: The project is deployed on Vercel, ensuring accessibility and scalability.
+- Deployment Ready: The project is deployed on Vercel, ensuring accessibility and scalability.
 
 
 ## Technologies Used
@@ -50,7 +50,7 @@ Deployment Ready: The project is deployed on Vercel, ensuring accessibility and 
 
 How Zustand is Used for API Integration and Managing Global State
 
-Zustand Store: Zustand is used to create a lightweight store to manage user authentication state, task data, and other globally shared states.
+- Zustand Store: Zustand is used to create a lightweight store to manage user authentication state, task data, and other globally shared states.
 
 # Global State Management:
 
@@ -146,21 +146,23 @@ npm run dev
 
 ## Security Measures
 
-# Password Hashing:
+
+
+- Password Hashing:
 
 User passwords are hashed using bcrypt before storing them in the database.
 
-# Token Validation:
+- Token Validation:
 
 JWT tokens are used for authentication and authorization.
 
 Tokens are validated using middleware to ensure access to protected routes.
 
-# Input Validation:
+- Input Validation:
 
 Data inputs are sanitized and validated to prevent SQL injection and XSS attacks.
 
- # CORS:
+- CORS:
 
 Configured CORS to allow only the client domain access to the API.
 
